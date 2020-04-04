@@ -31,6 +31,7 @@ public class LogAspct {
         }
     }
 
+
     /**
      * Daoクラスのログ出力用アスペクト.
      */
