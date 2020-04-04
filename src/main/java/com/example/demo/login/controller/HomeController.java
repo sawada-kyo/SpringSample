@@ -78,6 +78,7 @@ public class HomeController {
         return "login/homeLayout";
     }
 
+
     /**
      * ユーザー詳細画面のGETメソッド用処理.
      */
